@@ -19,8 +19,6 @@ Auto trade on Backpack exchange with Javascript:
 4. Install NodeJS: [How to install Nodejs](https://www.geeksforgeeks.org/installation-of-node-js-on-windows) (Version >= v18.16.0) 
 
 5. Open file ```index.js``` and edit this to your ```API_KEY``` and ```API_SECRET```:
-  ![image](https://github.com/tuantadev/auto_trade_backpack_exchange/assets/24671262/8626616b-ba7d-4943-bd32-e8a575f3af95)
-
 
 6. Start
 ```
